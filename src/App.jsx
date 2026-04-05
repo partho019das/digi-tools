@@ -4,6 +4,8 @@ import Stars from './assets/my files/stars'
 import Tools from './assets/my files/tools'
 import Card from './assets/my files/card'
 import Startet from './assets/my files/startet'
+import Pricing from './assets/my files/pricing'
+import Footer from './assets/my files/footer'
 import './App.css'
 import { Suspense } from 'react'
 
@@ -35,6 +37,8 @@ function App() {
         <Card cardpromiss={cardpromiss}></Card>
       </Suspense>
    <Startet></Startet>
+   <Pricing></Pricing>
+   <Footer></Footer>
     </>
   )
 }
