@@ -3,6 +3,7 @@ import Body from './assets/my files/body'
 import Stars from './assets/my files/stars'
 import Tools from './assets/my files/tools'
 import Card from './assets/my files/card'
+import Startet from './assets/my files/startet'
 import './App.css'
 import { Suspense } from 'react'
 
@@ -33,7 +34,7 @@ function App() {
       <Suspense fallback=<span className="loading loading-spinner loading-xl"></span>>
         <Card cardpromiss={cardpromiss}></Card>
       </Suspense>
-   
+   <Startet></Startet>
     </>
   )
 }
