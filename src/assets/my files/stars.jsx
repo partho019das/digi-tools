@@ -7,6 +7,7 @@ const Stars = () => {
           <p><span className='text-6xl font-bold'>200+</span> <br />Premium Tools</p> 
           <p><span className='text-6xl font-bold'>4.9</span> <br />Rating</p>
         </div>
+        
     );
 };
 

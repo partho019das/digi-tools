@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "AI Writing Pro",
+    "Description": "Advanced AI-powered writing assistant for blogs, ads, emails, and more.",
+    "Price": "$19",
+    "Period": "Monthly",
+    "TagType": "Popular",
+     "Image": "/assets/products/writing_2327400 1.png",
+    "Features": [
+      "AI content generation",
+      "Grammar correction",
+      "SEO optimization",
+      "Multiple tone styles"
+    ]
+  },
+  {
+    "Name": "Design Templates Pack",
+    "Description": "A collection of professionally designed templates for various creative needs.",
+    "Price": "$29",
+    "Period": "One-time",
+    "TagType": "Best Value",
+     "Image": "/assets/products/design-tool.png",
+    "Features": [
+      "Editable templates",
+      "Multiple categories",
+      "High-resolution designs",
+      "Easy customization"
+    ]
+  },
+  {
+    "Name": "Premium Stock Assets",
+    "Description": "Access to high-quality stock images, videos, and graphics.",
+    "Price": "$15",
+    "Period": "Monthly",
+    "TagType": "Trending",
+     "Image": "/assets/products/",
+    "Features": [
+      "Royalty-free assets",
+      "HD & 4K content",
+      "Regular updates",
+      "Commercial license"
+    ]
+  },
+  {
+    "Name": "Automation Toolkit",
+    "Description": "Tools to automate workflows and boost productivity.",
+    "Price": "$25",
+    "Period": "Monthly",
+    "TagType": "Pro",
+     "Image": "/assets/products/operation.png",
+    "Features": [
+      "Task automation",
+      "Integration support",
+      "Workflow builder",
+      "Analytics dashboard"
+    ]
+  },
+  {
+    "Name": "Resume Builder Pro",
+    "Description": "Create professional resumes and cover letters effortlessly.",
+    "Price": "$10",
+    "Period": "Monthly",
+    "TagType": "Essential",
+     "Image": "/assets/products/portfolio.png",
+    "Features": [
+      "Modern templates",
+      "AI suggestions",
+      "Export to PDF",
+      "ATS-friendly formats"
+    ]
+  },
+  {
+    "Name": "Social Media Content Kit",
+    "Description": "Ready-to-use content and templates for social media platforms.",
+    "Price": "$18",
+    "Period": "Monthly",
+    "TagType": "New",
+     "Image": "/assets/products/social-media.png",
+    "Features": [
+      "Post templates",
+      "Caption generator",
+      "Platform-specific designs",
+      "Content calendar"
+    ]
+  }
+]
