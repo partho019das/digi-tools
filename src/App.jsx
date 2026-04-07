@@ -10,7 +10,7 @@ import './App.css'
 import { Suspense } from 'react'
 
 const featchcard=async() =>{
-const fes =await fetch("/public/data.json")
+const fes =await fetch("/data.json")
 return fes.json();
 
 }
